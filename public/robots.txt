@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https:/james_mlln.com/sitemap.xml
+Sitemap: https://jmsmillena.github.io/my-zola-website/sitemap.xml

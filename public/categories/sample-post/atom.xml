@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>James Millena - Sample Post</title>
     <subtitle>A simple blog theme focused on writing powered by Bulma and Zola</subtitle>
-    <link rel="self" type="application/atom+xml" href="https:/james_mlln.com/categories/sample-post/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https:/james_mlln.com"/>
+    <link rel="self" type="application/atom+xml" href="https://jmsmillena.github.io/my-zola-website/categories/sample-post/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://jmsmillena.github.io/my-zola-website"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2025-07-22T00:00:00+00:00</updated>
-    <id>https:/james_mlln.com/categories/sample-post/atom.xml</id>
+    <id>https://jmsmillena.github.io/my-zola-website/categories/sample-post/atom.xml</id>
     <entry xml:lang="en">
         <title>Second Post</title>
         <published>2025-07-22T00:00:00+00:00</published>
@@ -20,8 +20,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https:/james_mlln.com/posts/post-1/"/>
-        <id>https:/james_mlln.com/posts/post-1/</id>
+        <link rel="alternate" type="text/html" href="https://jmsmillena.github.io/my-zola-website/posts/post-1/"/>
+        <id>https://jmsmillena.github.io/my-zola-website/posts/post-1/</id>
         
         <summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac iaculis libero. Suspendisse et sodales tellus, ut sodales mi. Proin scelerisque est nec laoreet aliquet. Aenean et nunc at mi efficitur sollicitudin at quis diam. Aenean mi massa, sollicitudin eu condimentum sed, sodales ut nisi. Aenean iaculis ante id gravida hendrerit. Nulla nisi neque, facilisis vitae viverra ac, interdum malesuada quam. Quisque laoreet leo nec lectus lacinia, in lacinia enim tempor.&lt;&#x2F;p&gt;
 </summary>
@@ -40,8 +40,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https:/james_mlln.com/posts/post-0/"/>
-        <id>https:/james_mlln.com/posts/post-0/</id>
+        <link rel="alternate" type="text/html" href="https://jmsmillena.github.io/my-zola-website/posts/post-0/"/>
+        <id>https://jmsmillena.github.io/my-zola-website/posts/post-0/</id>
         
         <summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac iaculis libero. Suspendisse et sodales tellus, ut sodales mi. Proin scelerisque est nec laoreet aliquet. Aenean et nunc at mi efficitur sollicitudin at quis diam. Aenean mi massa, sollicitudin eu condimentum sed, sodales ut nisi. Aenean iaculis ante id gravida hendrerit. Nulla nisi neque, facilisis vitae viverra ac, interdum malesuada quam. Quisque laoreet leo nec lectus lacinia, in lacinia enim tempor.&lt;&#x2F;p&gt;
 </summary>
