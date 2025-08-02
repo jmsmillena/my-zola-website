@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https:/james_mlln.com/sitemap.xml
